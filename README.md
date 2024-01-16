@@ -1,2 +1,2 @@
 # datavis
-[exercice 2](exo2.html)
+[exercice 2](Exo2.html)
